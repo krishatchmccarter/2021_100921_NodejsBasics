@@ -1,0 +1,25 @@
+//write code to scrape code from HTML but teacher different so want a different solution.
+
+//add .json to the end of the url (https://teamtreehouse.com/krishatchmccarter.json) get get a rest api endpoint that shares the badge and point info
+
+//installed chrome extension to make the json look presentable
+
+write function
+
+//test printMessage("KristiLou", 200, 500000);
+//next go to node.js documentation and look for https get request.
+
+
+shorten this
+
+const users = ["krishatchmccarter", "chalkers"];
+users.forEach((username) => {
+	getProfile(username);
+});
+
+
+to this
+
+const users = ["krishatchmccarter", "chalkers"];
+users.forEach((rofile(username);
+});
