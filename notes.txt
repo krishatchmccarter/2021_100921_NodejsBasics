@@ -23,3 +23,5 @@ to this
 const users = ["krishatchmccarter", "chalkers"];
 users.forEach((rofile(username);
 });
+
+when requiring your own files, the .js is optional when the path is not
